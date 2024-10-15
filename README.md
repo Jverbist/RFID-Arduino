@@ -62,8 +62,8 @@ This project is an Arduino-based countdown timer designed for an escape room sce
 
 ## Images
 - **RFID Module Setup**: ![RFID Module Setup](/Screenshot%202024-10-15%20at%2013.30.59.png)
-- **Wiring**: ![LCD Display](/IMG_0556.HEIC)
-- **LED Indicators**: ![LED Indicators](./led_indicators.png)
+- **Wiring**: ![LCD Display](/IMG_0556.jpg)
+- **RFID codes**: ![LED Indicators](/IMG%200555.jpg)
 
 ## License
 This project is open source and free to use for non-commercial purposes. Contributions and modifications are encouraged.
