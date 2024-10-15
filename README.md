@@ -21,6 +21,7 @@ This project is an Arduino-based countdown timer designed for an escape room sce
 - Breadboard
 
 ## Wiring Diagram
+https://www.circuito.io/app?components=514,11022,11372,761981,3061987 
 ![Wiring Diagram](/wiring_diagram.png)
 
 - **RFID Module**:
