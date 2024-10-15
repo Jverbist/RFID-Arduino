@@ -21,6 +21,8 @@ This project is an Arduino-based countdown timer designed for an escape room sce
 - Breadboard
 
 ## Wiring Diagram
+![Wiring Diagram](./wiring_diagram.png)
+
 - **RFID Module**:
   - `SS_PIN (10)` -> Digital pin 10
   - `RST_PIN (9)` -> Digital pin 9
@@ -57,6 +59,11 @@ This project is an Arduino-based countdown timer designed for an escape room sce
 - Ensure the RFID card's UID matches the stored value in the code (`int code[] = {203, 158, 65, 2};`).
 - The LCD will display the time remaining in minutes and seconds.
 - The project can be adapted for different timer values by changing the `COUNTDOWN_TIME` constant.
+
+## Images
+- **RFID Module Setup**: ![RFID Module Setup](/Screenshot%202024-10-15%20at%2013.30.59.png)
+- **LCD Display**: ![LCD Display](./lcd_display.png)
+- **LED Indicators**: ![LED Indicators](./led_indicators.png)
 
 ## License
 This project is open source and free to use for non-commercial purposes. Contributions and modifications are encouraged.
