@@ -21,6 +21,7 @@ This project is an Arduino-based countdown timer designed for an escape room sce
 - Breadboard
 
 ## Relay diagram
+![Relay diagram](/RELAY_NO_2-1.gif)
 ![Relay module](/Relay_module_wiring_guide_complete_DC.png)
 
 ## Wiring Diagram
