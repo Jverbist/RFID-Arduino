@@ -22,7 +22,6 @@ This project is an Arduino-based countdown timer designed for an escape room sce
 
 ## Relay diagram
 ![Relay diagram](/RELAY_NO_2-1.gif)
-![Relay module](/Relay_module_wiring_guide_complete_DC.png)
 
 ## Wiring Diagram
 https://www.circuito.io/app?components=514,11022,11372,761981,3061987 
